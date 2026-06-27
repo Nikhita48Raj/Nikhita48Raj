@@ -93,14 +93,9 @@ I enjoy solving practical problems through engineering, collaborating on ambitio
 * Deep Learning
 * Computer Vision
 * Generative AI
-* Retrieval-Augmented Generation
-* Large Language Models
-* AI Agents
 * MLOps
-* Full Stack AI Applications
 * Software Engineering
 * Open Source
-* Intelligent Automation
 
 </td>
 
@@ -233,10 +228,11 @@ AI Agents
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhita48Raj&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nikhita48Raj&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
 
 ## 🏆 GitHub Activity
 
@@ -249,14 +245,6 @@ AI Agents
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Nikhita48Raj&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Nikhita48Raj/Nikhita48Raj/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 

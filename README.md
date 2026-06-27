@@ -1,1 +1,138 @@
-# nikkiii
+<!-- ===================================================== -->
+
+<!--                 GITHUB PROFILE README                 -->
+
+<!--                     PART 1 OF 8                       -->
+
+<!-- ===================================================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30,36&text=Nick&fontAlignY=38&fontSize=62&fontColor=ffffff&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Generative%20AI&descAlignY=58&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Building+Intelligent+AI+Systems;Computer+Vision+%7C+LLMs+%7C+RAG;Full+Stack+AI+Developer;Always+Learning.+Always+Building."/>
+</p>
+
+<p align="center">
+
+<a href="https://vit.ac.in">
+<img src="https://img.shields.io/badge/VIT-Chennai-6C63FF?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Computer%20Science-Engineering-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-Aspiring-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-4F46E5?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Location-Chennai,%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white"/>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7C3AED"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square&color=7C3AED"/>
+
+</p>
+
+---
+
+# About Me
+
+I'm a **Computer Science Engineering student at VIT Chennai** with a strong interest in designing intelligent software systems that bridge **Artificial Intelligence** and **Software Engineering**.
+
+Rather than treating machine learning as isolated models, I focus on building **complete AI products**—from data preprocessing and model development to backend APIs, modern frontend interfaces, deployment, and continuous improvement.
+
+My work spans multiple AI domains including **Machine Learning, Computer Vision, Retrieval-Augmented Generation (RAG), Large Language Models, and Full-Stack AI Development**. Every project is approached with an emphasis on scalability, maintainability, and user impact.
+
+I enjoy solving practical problems through engineering, collaborating on ambitious ideas, and continuously expanding my expertise in modern AI technologies.
+
+---
+
+# Open To
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Opportunities
+
+* AI Engineer Internships
+* Machine Learning Internships
+* Software Engineering Internships
+* Research Collaborations
+* Open Source Contributions
+* Hackathons
+
+</td>
+
+<td width="50%">
+
+### Areas of Interest
+
+* Machine Learning
+* Generative AI
+* Computer Vision
+* MLOps
+* AI Agents
+* Full Stack AI Applications
+* Intelligent Automation
+* Applied Research
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Engineering Philosophy
+
+> **Build systems, not just models.**
+>
+> I believe impactful AI comes from combining strong software engineering practices with practical machine learning. My goal is to create intelligent systems that are reliable, scalable, and genuinely useful—not merely experimental prototypes.
+
+---
+
+# Current Snapshot
+
+| Category             | Status                                                 |
+| -------------------- | ------------------------------------------------------ |
+| 🎓 Education         | B.Tech Computer Science Engineering — VIT Chennai      |
+| 🤖 Primary Domain    | Artificial Intelligence & Machine Learning             |
+| 💻 Secondary Domain  | Full Stack Development                                 |
+| 🧠 Current Focus     | MLOps, LLM Engineering, RAG, AI Agents                 |
+| 🔬 Research Interest | Computer Vision & Intelligent Systems                  |
+| 🚀 Building          | End-to-End AI Applications                             |
+| 🌱 Learning          | Docker • Kubernetes • Cloud Deployment                 |
+| 🎯 Goal              | AI / ML Engineering Internship & Production AI Systems |
+
+---

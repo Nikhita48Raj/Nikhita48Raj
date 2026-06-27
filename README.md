@@ -7,7 +7,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30,36&text=Nick&fontAlignY=38&fontSize=62&fontColor=ffffff&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Generative%20AI&descAlignY=58&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30,36&text=Nikhita&fontAlignY=38&fontSize=62&fontColor=ffffff&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Generative%20AI&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -32,15 +32,15 @@
 
 <img src="https://img.shields.io/badge/Location-Chennai,%20India-7C3AED?style=flat-square&logo=googlemaps&logoColor=white"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Nikhita48Raj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/nikhita48raj/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="nikhita48raj@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail"/>
 </a>
 
@@ -50,15 +50,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=7C3AED"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square&color=7C3AED"/>
-
-</p>
 
 ---
 
@@ -134,5 +125,261 @@ I enjoy solving practical problems through engineering, collaborating on ambitio
 | 🚀 Building          | End-to-End AI Applications                             |
 | 🌱 Learning          | Docker • Kubernetes • Cloud Deployment                 |
 | 🎯 Goal              | AI / ML Engineering Internship & Production AI Systems |
+
+---
+# Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,react,vite,nodejs,express,flask,mongodb,mysql,firebase,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=11"/>
+
+</p>
+
+---
+
+## Technology Overview
+
+<table>
+
+<tr>
+<th width="20%">Category</th>
+<th width="80%">Technologies</th>
+</tr>
+
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+Python • Java • C++ • C • JavaScript • HTML5 • CSS3 • SQL
+
+</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>
+
+React • Vite • Tailwind CSS • React Router • Responsive UI Design
+
+</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>
+
+Flask • Node.js • Express.js • REST APIs • Authentication
+
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+MongoDB • Firebase • MySQL
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+
+TensorFlow • PyTorch • Scikit-Learn • Hugging Face • OpenCV • MediaPipe • NumPy • Pandas • Matplotlib
+
+</td>
+</tr>
+
+<tr>
+<td><b>Generative AI</b></td>
+<td>
+
+Retrieval-Augmented Generation (RAG) • Vector Search • Embeddings • Prompt Engineering • LLM Integration
+
+</td>
+</tr>
+
+<tr>
+<td><b>Developer Tools</b></td>
+<td>
+
+Git • GitHub • VS Code • Docker (Learning) • Postman • Figma
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# AI & Software Engineering Expertise
+
+| Domain                 | Proficiency | Experience                                                                                           |
+| ---------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
+| Machine Learning       | ██████████  | End-to-end ML pipelines, preprocessing, feature engineering, model evaluation, hyperparameter tuning |
+| Deep Learning          | ████████░░  | Neural networks using TensorFlow & PyTorch                                                           |
+| Computer Vision        | █████████░  | Pose estimation, image analysis, OpenCV, MediaPipe                                                   |
+| Generative AI          | ████████░░  | RAG pipelines, embeddings, document intelligence, LLM integration                                    |
+| Full Stack Development | ████████░░  | React, Flask, Node.js, Firebase, REST APIs                                                           |
+| Data Analytics         | ████████░░  | Dashboards, visualization, analytics platforms                                                       |
+| Software Engineering   | ████████░░  | Modular architecture, scalable applications, Git workflows                                           |
+| MLOps                  | ████░░░░░░  | Docker, deployment concepts, CI/CD *(currently learning)*                                            |
+
+---
+
+# Engineering Workflow
+
+```text
+                Problem Statement
+                        │
+                        ▼
+              Research & Planning
+                        │
+                        ▼
+              Data Collection
+                        │
+                        ▼
+            Data Preprocessing
+                        │
+                        ▼
+              Feature Engineering
+                        │
+                        ▼
+              Model Development
+                        │
+                        ▼
+             Model Evaluation
+                        │
+                        ▼
+             Backend API Design
+                        │
+                        ▼
+             Frontend Integration
+                        │
+                        ▼
+          Testing & Optimization
+                        │
+                        ▼
+                 Deployment
+```
+
+---
+
+# Core Competencies
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+### Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Predictive Analytics
+* Model Optimization
+
+</td>
+
+<td width="33%">
+
+### Generative AI
+
+* Retrieval-Augmented Generation
+* Prompt Engineering
+* Embeddings
+* Semantic Search
+* LLM Integration
+
+</td>
+
+<td width="33%">
+
+### Software Engineering
+
+* REST APIs
+* Full Stack Development
+* Database Design
+* Responsive UI
+* Scalable Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Development Philosophy
+
+```yaml
+design:
+  architecture: Modular
+  code_quality: Maintainable
+  scalability: High
+  readability: First-Class
+  testing: Continuous
+  documentation: Comprehensive
+
+engineering:
+  ai_first: true
+  production_ready: true
+  user_centric: true
+  research_driven: true
+```
+
+---
+
+# Current Learning Roadmap
+
+```text
+Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+Computer Vision
+        │
+        ▼
+Generative AI
+        │
+        ▼
+Retrieval-Augmented Generation
+        │
+        ▼
+LLM Engineering
+        │
+        ▼
+MLOps
+        │
+        ▼
+Cloud Deployment
+        │
+        ▼
+AI Agents
+```
+
+---
+
+# Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Retrieval-Augmented Generation
+* Large Language Models
+* AI Agents
+* MLOps
+* Full Stack AI Applications
+* Software Engineering
+* Open Source
+* Intelligent Automation
 
 ---

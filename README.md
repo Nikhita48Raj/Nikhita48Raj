@@ -88,14 +88,19 @@ I enjoy solving practical problems through engineering, collaborating on ambitio
 
 ### Areas of Interest
 
+* Artificial Intelligence
 * Machine Learning
-* Generative AI
+* Deep Learning
 * Computer Vision
-* MLOps
+* Generative AI
+* Retrieval-Augmented Generation
+* Large Language Models
 * AI Agents
+* MLOps
 * Full Stack AI Applications
+* Software Engineering
+* Open Source
 * Intelligent Automation
-* Applied Research
 
 </td>
 
@@ -134,135 +139,6 @@ I enjoy solving practical problems through engineering, collaborating on ambitio
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,react,vite,nodejs,express,flask,mongodb,mysql,firebase,git,github,docker,linux,vscode,figma,tensorflow,pytorch&perline=11"/>
 
 </p>
-
----
-
-## Technology Overview
-
-<table>
-
-<tr>
-<th width="20%">Category</th>
-<th width="80%">Technologies</th>
-</tr>
-
-<tr>
-<td><b>Languages</b></td>
-<td>
-
-Python • Java • C++ • C • JavaScript • HTML5 • CSS3 • SQL
-
-</td>
-</tr>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>
-
-React • Vite • Tailwind CSS • React Router • Responsive UI Design
-
-</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-Flask • Node.js • Express.js • REST APIs • Authentication
-
-</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td>
-
-MongoDB • Firebase • MySQL
-
-</td>
-</tr>
-
-<tr>
-<td><b>AI / ML</b></td>
-<td>
-
-TensorFlow • PyTorch • Scikit-Learn • Hugging Face • OpenCV • MediaPipe • NumPy • Pandas • Matplotlib
-
-</td>
-</tr>
-
-<tr>
-<td><b>Generative AI</b></td>
-<td>
-
-Retrieval-Augmented Generation (RAG) • Vector Search • Embeddings • Prompt Engineering • LLM Integration
-
-</td>
-</tr>
-
-<tr>
-<td><b>Developer Tools</b></td>
-<td>
-
-Git • GitHub • VS Code • Docker (Learning) • Postman • Figma
-
-</td>
-</tr>
-
-</table>
-
----
-
-# AI & Software Engineering Expertise
-
-| Domain                 | Proficiency | Experience                                                                                           |
-| ---------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
-| Machine Learning       | ██████████  | End-to-end ML pipelines, preprocessing, feature engineering, model evaluation, hyperparameter tuning |
-| Deep Learning          | ████████░░  | Neural networks using TensorFlow & PyTorch                                                           |
-| Computer Vision        | █████████░  | Pose estimation, image analysis, OpenCV, MediaPipe                                                   |
-| Generative AI          | ████████░░  | RAG pipelines, embeddings, document intelligence, LLM integration                                    |
-| Full Stack Development | ████████░░  | React, Flask, Node.js, Firebase, REST APIs                                                           |
-| Data Analytics         | ████████░░  | Dashboards, visualization, analytics platforms                                                       |
-| Software Engineering   | ████████░░  | Modular architecture, scalable applications, Git workflows                                           |
-| MLOps                  | ████░░░░░░  | Docker, deployment concepts, CI/CD *(currently learning)*                                            |
-
----
-
-# Engineering Workflow
-
-```text
-                Problem Statement
-                        │
-                        ▼
-              Research & Planning
-                        │
-                        ▼
-              Data Collection
-                        │
-                        ▼
-            Data Preprocessing
-                        │
-                        ▼
-              Feature Engineering
-                        │
-                        ▼
-              Model Development
-                        │
-                        ▼
-             Model Evaluation
-                        │
-                        ▼
-             Backend API Design
-                        │
-                        ▼
-             Frontend Integration
-                        │
-                        ▼
-          Testing & Optimization
-                        │
-                        ▼
-                 Deployment
-```
 
 ---
 
@@ -314,26 +190,6 @@ Git • GitHub • VS Code • Docker (Learning) • Postman • Figma
 
 ---
 
-# Development Philosophy
-
-```yaml
-design:
-  architecture: Modular
-  code_quality: Maintainable
-  scalability: High
-  readability: First-Class
-  testing: Continuous
-  documentation: Comprehensive
-
-engineering:
-  ai_first: true
-  production_ready: true
-  user_centric: true
-  research_driven: true
-```
-
----
-
 # Current Learning Roadmap
 
 ```text
@@ -363,40 +219,21 @@ Cloud Deployment
         ▼
 AI Agents
 ```
-
----
-
-# Areas of Interest
-
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Retrieval-Augmented Generation
-* Large Language Models
-* AI Agents
-* MLOps
-* Full Stack AI Applications
-* Software Engineering
-* Open Source
-* Intelligent Automation
-
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nikhita48Raj&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhita48Raj&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhita48Raj&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -405,13 +242,13 @@ AI Agents
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhita48Raj&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nikhita48Raj&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -419,7 +256,7 @@ AI Agents
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Nikhita48Raj/Nikhita48Raj/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -450,15 +287,15 @@ Open_To:
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nikhita48raj@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/nikhita48raj">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Nikhita48Raj">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

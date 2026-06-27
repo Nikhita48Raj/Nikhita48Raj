@@ -240,7 +240,9 @@ AI Agents
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhita48Raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+  <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhita48Raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
 </p>
 
 ---

@@ -1,4 +1,4 @@
-<!-- ===================================================== -->
+  <!-- ===================================================== -->
 
 <!--                 GITHUB PROFILE README                 -->
 
@@ -240,7 +240,7 @@ AI Agents
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nikhita48Raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nikhita48Raj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
@@ -248,7 +248,7 @@ AI Agents
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nikhita48Raj/Nikhita48Raj/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Nikhita48Raj/Nikhita48Raj/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 

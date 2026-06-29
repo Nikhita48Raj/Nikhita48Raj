@@ -112,7 +112,6 @@ I enjoy solving practical problems through engineering, collaborating on ambitio
 > I believe impactful AI comes from combining strong software engineering practices with practical machine learning. My goal is to create intelligent systems that are reliable, scalable, and genuinely useful—not merely experimental prototypes.
 
 ---
-
 # Current Snapshot
 
 | Category             | Status                                                 |
